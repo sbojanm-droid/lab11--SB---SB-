@@ -1,3 +1,7 @@
+# https://github.com/sbojanm-droid/lab11--SB---SB-
+# Partner 1: Sebastian Bojan (sbojanm-droid)
+# Partner 2: Sebastian Bojan other account (smbgamein-commits)
+# I missed the lab so I wasn't able to get a partner, so I simply used 2 github accounts, my personal and an alt.
 import unittest
 from calculator import *
 
